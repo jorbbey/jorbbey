@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <h3>👋 Hi, I’m Blessed Joseph </h3>
+  <h2>👋 Hi, I’m Blessed Joseph </h2>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
   ---
 
