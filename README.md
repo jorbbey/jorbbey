@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jorbbey">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://gmail.com/jorbbey@gmail.com">
+  <a href="https://mail.google.com/mail/mu/mp/678/#co">
     <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://mobile.twitter.com/Jorbbey">
