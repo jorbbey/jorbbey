@@ -39,7 +39,7 @@
 
 - :otter: I'm also in search of intern/part-time/full-time/freelance opportunities 
 
-- :call_me_hand:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-jorbbey-blue?style=flat&logo=Linkedin&logoColor=white)](https://mobile.twitter.com/Jorbbey)
+- :call_me_hand:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-jorbbey-blue?style=flat&logo=Twitter&logoColor=white)](https://mobile.twitter.com/Jorbbey)
 
 ---
 
