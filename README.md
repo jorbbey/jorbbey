@@ -52,7 +52,11 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorbbey&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorbbey&theme=dark&background=000000)](https://git.io/streak-stats) 
+  
+  ---
+  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   
