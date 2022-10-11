@@ -35,11 +35,11 @@
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
 
-- :clap I’m looking to collaborate on github 
+- :clap: I’m looking to collaborate on github 
 
 - :otter: I'm also in search of intern/part-time/full-time/freelance opportunities 
 
-- :call_me_hand:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorbbey)
+- :call_me_hand:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-jorbbey-blue?style=flat&logo=Linkedin&logoColor=white)](https://mobile.twitter.com/Jorbbey)
 
 ---
 
