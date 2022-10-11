@@ -26,20 +26,20 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria .
+- :chipmunk: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria .
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :seedling: I'm currently learning the concepts of React and Typescript 
+- :balance_scale: I'm currently learning the concepts of React and Typescript 
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
 
-- :zap I’m looking to collaborate on github 
+- :clap I’m looking to collaborate on github 
 
-- :otter I'm also in search of intern/part-time/full-time/freelance opportunities 
+- :otter: I'm also in search of intern/part-time/full-time/freelance opportunities 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorbbey)
+- :call_me_hand:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorbbey)
 
 ---
 
