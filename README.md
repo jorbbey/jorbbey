@@ -54,9 +54,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
   <div>
     <h3> My Stats : </h3> 
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
   </div>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 
