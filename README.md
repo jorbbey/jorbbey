@@ -51,6 +51,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   
+  ---
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorbbey&theme=dark&background=000000)](https://git.io/streak-stats) 
   
