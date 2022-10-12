@@ -31,7 +31,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :balance_scale: I'm currently learning the concepts of React and Typescript 
+- :balance_scale: I'm currently learning the concepts of Vue and Typescript 
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
 
@@ -46,7 +46,7 @@
 ### :hammer_and_wrench: My Stacks :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind css"  alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
