@@ -29,8 +29,6 @@
 - :chipmunk: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :balance_scale: I'm currently learning the concepts of Vue and Typescript 
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
@@ -68,9 +66,3 @@
   
   
   ---
-
-### :writing_hand: Blog Posts :
-  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
