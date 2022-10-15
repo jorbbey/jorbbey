@@ -43,17 +43,6 @@
   <table>
   <tr>
     <td>
-      <a href="https://github.com/jorbbey"><img alt="Jorbbey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorbbey&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/jorbbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorbbey&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/jorbbey"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -130,6 +119,18 @@
       </a>
         <p align="center">SASS</p>
       </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/jorbbey"><img alt="Jorbbey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorbbey&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/jorbbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorbbey&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/jorbbey"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 </table>
