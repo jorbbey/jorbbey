@@ -2,8 +2,7 @@
 
 <div id="header" align="center">
   
-![Jorbbey-codes](https://user-images.githubusercontent.com/111202318/195980341-a9ed1566-dfc3-4ca5-8619-ed64f47623ab.gif)
-  
+  ![Jorbbey-codes](https://user-images.githubusercontent.com/111202318/195982015-4f2813a2-773a-4993-8cde-f0d5d121c296.gif)
   
  <div id="badges">
   <a href>
