@@ -3,15 +3,10 @@
   
   
  <div id="badges">
-  <a href="https://www.linkedin.com/in/jorbbey">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:jorbbey@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://mobile.twitter.com/Jorbbey">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href>
+<a href = "https://www.linkedin.com/in/jorbbey"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:jorbbey@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://twitter.com/jorbbey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=jorbbey&style=flat-circle&color=blue" alt=""/>
@@ -41,20 +36,7 @@
 
 ---
 
-### :hammer_and_wrench: My Stacks :
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind css"  alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="75" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="50"/>
-  
-  ---
+### :hammer_and_wrench: My GitHub Stats and Tech Stacks :
   
   <table>
   <tr>
@@ -67,7 +49,7 @@
     <td>
       <a href="https://github.com/jorbbey"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td>
       <p align="center">
@@ -165,12 +147,4 @@
   
   ---
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorbbey&theme=dark&background=000000)](https://git.io/streak-stats) 
   
-  ---
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-  ---
