@@ -1,3 +1,7 @@
+---
+[![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://jorbbey.netlify.app/)
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -15,12 +19,12 @@
 
 <div align="center">
   <h2>👋 Hi, I’m Blessed Joseph </h2>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
  </div>
  
   ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 - :chipmunk: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -36,7 +40,7 @@
 
 ---
 
-### :hammer_and_wrench: My GitHub Stats and Tech Stacks :
+## :hammer_and_wrench: My GitHub Stats and Tech Stacks :
   
   <table>
   <tr>
@@ -133,8 +137,6 @@
 </table>
 
 ---
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jorbbey&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## Connect with me:
 
