@@ -145,7 +145,6 @@
   <p align="right">
   <a href = "https://www.linkedin.com/in/jorbbey"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30" height="30" alt="linkedin"/></a>
 <a href = "https://twitter.com/jorbbey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30" height="30" alt="twitter"/></a>
-<a href = "https://www.instagram.com/dunsincodes"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30" height="30" alt=""/></a>
 </p>
 
 </div>
