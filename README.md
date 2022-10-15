@@ -43,7 +43,6 @@
 
 ### :hammer_and_wrench: My Stacks :
 
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind css"  alt="Tailwind CSS" width="40" height="40"/>&nbsp;
@@ -54,6 +53,115 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="75" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="50"/>
+  
+  ---
+  
+  <table>
+  <tr>
+    <td>
+      <a href="https://github.com/jorbbey"><img alt="Jorbbey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorbbey&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/jorbbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorbbey&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/jorbbey"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorbbey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  <tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td>           
+      <p align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+      </a>
+        <p align="center">TypeScript</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>            
+      <p align="center">
+        <a href="https://vuejs.org/docs" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="VueJS" />
+      </a>
+        <p align="center">VueJS</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+    <td>      
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        </a>
+        <p align="center">Tailwind</p>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>            
+      <p align="center">
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+      </a>
+        <p align="center">PHP</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+      </a>
+        <p align="center">MySQL</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+      </a>
+        <p align="center">SASS</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jorbbey&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+## Connect with me:
+
+<p align="center">
+  <a href = "https://www.linkedin.com/in/jorbbey"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/jorbbey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/dunsincodes"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
   
   ---
  
