@@ -26,7 +26,7 @@
 - :chipmunk: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :balance_scale: I'm currently learning the concepts of Vue and Typescript 
+- :balance_scale: I'm currently learning the concepts of React and Typescript 
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
 
@@ -72,9 +72,9 @@
     <td>            
       <p align="center">
         <a href="https://vuejs.org/docs" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="VueJS" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactjs-colored.svg" width="36" height="36" alt="VueJS" />
       </a>
-        <p align="center">VueJS</p>
+        <p align="center">React</p>
       </p>
     </td>
     <td>
