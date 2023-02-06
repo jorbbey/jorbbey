@@ -16,14 +16,14 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, I’m Blessed Joseph </h1>
+  <h1>👋 Hi, I’m Joseph Akpan</h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
  </div>
  
   ---
 
 ## :man_technologist: About Me :
-- :chipmunk: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
+- :chipmunk: I am a Front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :balance_scale: I'm currently learning the concepts of React and Typescript 
