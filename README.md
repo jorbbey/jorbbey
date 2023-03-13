@@ -99,9 +99,9 @@
     <td>            
       <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
       </a>
-        <p align="center">PHP</p>
+        <p align="center">Python</p>
       </p>
     </td>
     <td>
@@ -115,9 +115,9 @@
     <td>
       <p align="center">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+          <img src="https://github.com/vuejs/art/blob/master/logo.svg" width="36" height="36" alt="Vue" />
       </a>
-        <p align="center">SASS</p>
+        <p align="center">Vue</p>
       </p>
     </td>
   </tr>
