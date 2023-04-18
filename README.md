@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, I’m Joseph Akpan</h1>
+  <h1>👋 Hi, I’m Blessed Joseph Akpan</h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
  </div>
  
@@ -107,7 +107,7 @@
     <td>
       <p align="center">
         <a href="https://mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/posgres-colored.svg" width="36" height="36" alt="Pos    greSQL" />
       </a>
         <p align="center">MySQL</p>
       </p>
