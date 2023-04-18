@@ -107,7 +107,7 @@
     <td>
       <p align="center">
         <a href="https://mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/posgres-colored.svg" width="36" height="36" alt="Pos    greSQL" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
       </a>
         <p align="center">MySQL</p>
       </p>
