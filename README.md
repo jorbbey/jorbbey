@@ -23,10 +23,10 @@
   ---
 
 ## :man_technologist: About Me :
-- :chipmunk: I am a Front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :chipmunk: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :balance_scale: I'm currently learning the concepts of React and Typescript 
+- :balance_scale: I'm currently learning the concepts of Node.js ~ Express.js and Typescript 
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
 
