@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, I’m Blessed Joseph Akpan</h1>
+  <h1>👋 Hi, I’m Joseph</h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
  </div>
  
