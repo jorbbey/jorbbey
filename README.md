@@ -26,7 +26,7 @@
 - :chipmunk: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :balance_scale: I'm currently learning the concepts of Python for web development 
+- :balance_scale: I'm currently learning the concepts of PHP (Laravel) for web development 
 
 - :zap: In my free time, I solve problems on Leetscode and read tech articles and books.
 
