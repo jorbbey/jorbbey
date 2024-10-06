@@ -99,9 +99,9 @@
     <td>            
       <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Python" />
       </a>
-        <p align="center">Python</p>
+        <p align="center">PHP</p>
       </p>
     </td>
     <td>
